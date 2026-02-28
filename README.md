@@ -11,10 +11,30 @@
 
 ## Table of Contents
 
+- [Accessing the Repository (Invited Collaborators)](#-accessing-the-repository-invited-collaborators)
 - [Problem Definition](#-problem-definition)
 - [Dataset Description](#-dataset-description)
 - [Objectives](#-objectives)
 - [Techniques Applied](#-data-mining-techniques-applied)
+
+---
+
+## 🔗 Accessing the Repository (Invited Collaborators)
+
+If you received an invitation to collaborate on this repository, follow these steps to find it:
+
+1. **Check your email** — GitHub sends an invitation email to the address associated with your account. Click **"View invitation"** in that email to accept it directly.
+2. **Check your GitHub notifications** — Log in to [github.com](https://github.com), click the 🔔 bell icon in the top-right corner, and look for a repository invitation notification.
+3. **Go to your invitations page** — Visit [github.com/notifications](https://github.com/notifications) or navigate directly to:
+   ```
+   https://github.com/nat1600/data-mining-movies/invitations
+   ```
+4. **Accept the invitation** — Once accepted, the repository will appear under **"Your repositories"** on your GitHub profile and at:
+   ```
+   https://github.com/nat1600/data-mining-movies
+   ```
+
+> **Note:** Invitations expire after 7 days. If yours has expired, ask the repository owner to resend it.
 
 ---
 
