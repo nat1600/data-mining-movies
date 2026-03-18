@@ -8,3 +8,4 @@ tqdm
 ipykernel
 missingo
 jinja2
+missingno
