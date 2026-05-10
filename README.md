@@ -1,4 +1,4 @@
-# 🎬 TMDB Movies Dataset — Analysis & Recommendation System
+#  TMDB Movies Dataset — Analysis & Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data_Mining-Academic_Project-58a6ff?style=for-the-badge)
